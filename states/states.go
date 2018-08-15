@@ -1,5 +1,5 @@
-// import "github.com/amy911/state911"
-package state911
+// import "github.com/amy911/state911/states"
+package states
 
 import (
 	"errors"
