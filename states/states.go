@@ -1,4 +1,4 @@
-// import "github.com/amy911/state911/states"
+// import "github.com/suite911/state911/states"
 package states
 
 import (
@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/amy911/error911/onfail"
-	"github.com/amy911/str911/str"
+	"github.com/suite911/error911/onfail"
+	"github.com/suite911/str911/str"
 )
 
 var Debug, Note, Trace *log.Logger = nil, nil, nil
